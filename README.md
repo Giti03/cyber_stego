@@ -17,3 +17,13 @@ String Manipulation – For character encoding (if needed)
 ✅ Minimal image distortion – The image remains visually unchanged after data embedding.
 ✅ Lightweight & efficient – Uses only OpenCV and built-in Python libraries.
 ✅ Secure data transmission – Helps in private communication and data protection.
+
+🔧 How to Run the Project
+1️⃣ Install Dependencies: Make sure you have Python installed along with OpenCV.
+2️⃣ Run the Script
+3️⃣ Enter the Secret Message:
+The script will prompt you to enter a message to hide inside the image.
+It will also ask for a passcode to secure the message.
+4️⃣ Decryption Process:
+When prompted, enter the correct passcode to retrieve the hidden message.
+
